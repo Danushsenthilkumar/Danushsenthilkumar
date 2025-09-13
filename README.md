@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hi, I’m Danush!  <br>🎓 Final Year Student @ SSN College of Engineering (2022–2026)<br>💻 Passionate about Full Stack Development and Problem Solving.  <br>🛠 Skilled in Java, Python, JavaScript, React.js, Spring Boot, Flask,Express.js, and MySQL.  <br>🚀 Experience as an SDE Intern (React, Flask, FlutterFlow) and Full Stack Intern (Java, Spring Boot).  <br>🏆 500+ DSA problems solved on LeetCode, GFG, and Codeforces.  <br>📚 I’m looking to collaborate on innovative real world full-stack development projects</h5>
+<h4 align="left">👋 Hi, I’m Danush!  <br>🎓 Final Year Student @ SSN College of Engineering (2022–2026)<br>💻 Passionate about Full Stack Development and Problem Solving.  <br>🛠 Skilled in Java, Python, JavaScript, React.js, Spring Boot, Flask,Express.js, and MySQL.  <br>🚀 Experience as an SDE Intern (React, Flask, FlutterFlow) and Full Stack Intern (Java, Spring Boot).  <br>🏆 500+ DSA problems solved on LeetCode, GFG, and Codeforces.  <br>📚 I’m looking to collaborate on innovative real world full-stack development projects</h4>
 
 ###
 
